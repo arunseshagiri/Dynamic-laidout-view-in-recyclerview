@@ -1,0 +1,27 @@
+{
+  "city": "Bangalore",
+  "date": "2020-01-22T7:00:00",
+  "prediction": [
+    {
+      "date": "2020-01-22",
+      "tempInC": 10.2,
+      "windSpeed": 100,
+      "windSpeedUnit": "Km/hr",
+      "time": "7:00:00"
+    },
+    {
+      "date": "2020-01-22",
+      "tempInC": 10.2,
+      "windSpeed": 100,
+      "windSpeedUnit": "Km/hr",
+      "time": "8:00:00"
+    },
+    {
+      "date": "2020-01-22",
+      "tempInC": 10.2,
+      "windSpeed": 100,
+      "windSpeedUnit": "Km/hr",
+      "time": "9:00:00"
+    }
+  ]
+}
